@@ -4,6 +4,7 @@ Run the **latest Unreal Engine Editor** on **older hardware** — no SSE4.2 or A
 
 This project is a private fork of Unreal Engine that I maintain, designed to keep game development accessible for everyone, even on legacy machines.
 
+********Main Fork-Repo link is below. be sure to signin in epicgames main repository to access this fork.*******
 ---
 
 ## 🔧 Features
@@ -45,6 +46,6 @@ If you find this project useful:
   
 ---
 
-## 📣 Stay Connected
+## 📣 Stay Connected [DOWNLOAD LINK]
 - GitHub: [UnrealEngine-No-SSE-AVX](https://github.com/bestfriend11/UnrealEngine-No-SSE-AVX)
 - More projects coming soon — stay tuned!
