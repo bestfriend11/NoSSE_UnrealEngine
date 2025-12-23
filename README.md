@@ -6,6 +6,9 @@ This project is a private fork of Unreal Engine that I maintain, designed to kee
 
 ********Main Fork-Repo link is below. be sure to signup in epicgames main repository to access this fork.*******
 ---
+![CPU usage screenshot](https://github.com/bestfriend11/NoSSE_UnrealEngine/blob/main/cpu.png?raw=true)
+![GPU usage screenshot](https://github.com/bestfriend11/NoSSE_UnrealEngine/blob/main/gpu.png?raw=true)
+![Memory usage screenshot](https://github.com/bestfriend11/NoSSE_UnrealEngine/blob/main/mem.png?raw=true)
 
 ## 🔧 Features
 - ✅ Removes dependency on SSE4.2/AVX instruction sets
