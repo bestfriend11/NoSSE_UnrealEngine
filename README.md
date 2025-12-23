@@ -1,7 +1,6 @@
 # 🚀 UnrealEngine-No-SSE-AVX
 
-![Stars](https://img.shields.io/github/stars/bestfriend11/UnrealEngine-No-SSE-AVX?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/bestfriend11/UnrealEngine-No-SSE-AVX?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/bestfriend11/NoSSE_UnrealEngine?style=for-the-badge)
 
 
 ---
