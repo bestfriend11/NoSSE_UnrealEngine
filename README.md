@@ -40,6 +40,10 @@ Since this is a private fork, please open an issue to request access or share fe
 
 ---
 
+## Contact
+- Email: imankhalilzad@proton.me
+- GitHub: https://github.com/bestfriend11
+
 ## ⭐ Support & Recognition
 If you find this project useful:
 - Give it a **star** 🌟 to help others discover it
