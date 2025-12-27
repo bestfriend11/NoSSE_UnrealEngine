@@ -1,9 +1,3 @@
-<head>
-  <meta name="google-site-verification" content="twY7QAKqU7odao1T5niPS5K06J-xloP9-cbDTi_cwwA" />
-</head>
-
-
-
 # 🚀 UnrealEngine-No-SSE-AVX ![Stars](https://img.shields.io/github/stars/bestfriend11/NoSSE_UnrealEngine?style=for-the-badge)
 
 ## 📸 Fork Link 
